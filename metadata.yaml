@@ -1,0 +1,42 @@
+_repo: Under-Wellington-s-Command--A-Tale-of-the-Peninsular-War_20207
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Paget, Walter
+    aliases:
+    - Paget, Wal. (Walter)
+    - Paget, W. (Walter)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '9756'
+    url: http://www.gutenberg.org/2009/agents/9756
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf:
+- Historical Fiction
+- Children's Fiction
+gutenberg_issued: '2006-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peninsular War, 1807-1814 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Historical fiction'
+title: 'Under Wellington''s Command: A Tale of the Peninsular War'
+url: http://www.gutenberg.org/ebooks/20207
